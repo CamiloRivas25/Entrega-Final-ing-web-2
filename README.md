@@ -39,5 +39,4 @@ src/
 - **Red/servidor:** mensajes distintos para sin conexión, timeout, 404 y 5xx; botón «Reintentar» al fallar la carga.
 - **Rutas protegidas:** sin sesión, `/citas` redirige a `/login`.
 
-## Notas
-La autenticación es una simulación académica: en un sistema real la contraseña nunca viaja ni se guarda en texto plano, y el backend emitiría un token.
+
